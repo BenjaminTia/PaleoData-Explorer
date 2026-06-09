@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BenjaminTia/PaleoPedia/main/assets/banner.png" alt="PaleoData Explorer" width="800"/>
-</p>
-
 <h1 align="center">🦴 PaleoData Explorer</h1>
 
 <p align="center">
