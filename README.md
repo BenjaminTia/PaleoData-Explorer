@@ -15,6 +15,20 @@ pinned: false
 </p>
 
 <p align="center">
+  <a href="https://huggingface.co/spaces/benjamintia/PaleoData-Explorer">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Try%20it%20Live!-ff9a00" alt="Try on Hugging Face">
+  </a>
+  &nbsp;
+  <a href="https://github.com/BenjaminTia/PaleoPedia">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-24292e?logo=github" alt="GitHub Repository">
+  </a>
+  &nbsp;
+  <a href="https://github.com/BenjaminTia/PaleoPedia/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="MIT License">
+  </a>
+</p>
+
+<p align="center">
   <a href="#features">Features</a> •
   <a href="#quick-start">Quick Start</a> •
   <a href="#architecture">Architecture</a> •
