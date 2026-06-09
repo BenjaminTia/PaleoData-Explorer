@@ -1,3 +1,13 @@
+---
+title: PaleoData Explorer
+emoji: 🦴
+colorFrom: red
+colorTo: gray
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 <h1 align="center">🦴 PaleoData Explorer</h1>
 
 <p align="center">
