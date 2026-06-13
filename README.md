@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Try%20it%20Live!-ff9a00" alt="Try on Hugging Face">
   </a>
   &nbsp;
-  <a href="https://github.com/BenjaminTia/PaleoPedia">
+  <a href="https://github.com/BenjaminTia/PaleoData-Explorer.git">
     <img src="https://img.shields.io/badge/GitHub-Source%20Code-24292e?logo=github" alt="GitHub Repository">
   </a>
   &nbsp;
@@ -94,8 +94,8 @@ PaleoData Explorer provides a **zero-code pipeline**:
 
 ```bash
 # Clone the repository
-git clone https://github.com/BenjaminTia/PaleoPedia.git
-cd PaleoPedia
+git clone https://github.com/BenjaminTia/PaleoData-Explorer.git
+cd PaleoData-Explorer
 
 # Build and start
 docker compose up --build -d
@@ -108,8 +108,8 @@ open http://localhost:8501
 
 ```bash
 # Clone and install
-git clone https://github.com/BenjaminTia/PaleoPedia.git
-cd PaleoPedia
+git clone https://github.com/BenjaminTia/PaleoData-Explorer.git
+cd PaleoData-Explorer
 pip install -r requirements.txt
 
 # Run
@@ -123,7 +123,7 @@ Open **http://localhost:8501** in your browser.
 ## Architecture
 
 ```
-PaleoPedia/
+PaleoData-Explorer/
 ├── app.py                 # Streamlit entry point — sidebar, tabs, export, UI
 ├── api_client.py          # PBDB & Wikipedia API wrappers with error handling
 ├── data_processor.py      # JSON → DataFrame, cleaning pipeline, statistics
